@@ -1,0 +1,1 @@
+sprite_index = choose(S_Char1, S_Char2, S_Char3, S_Char4, S_Char5);
